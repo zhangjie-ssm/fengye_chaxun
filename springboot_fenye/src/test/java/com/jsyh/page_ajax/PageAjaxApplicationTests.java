@@ -10,4 +10,9 @@ class PageAjaxApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void test01(){
+        System.out.println("你好 github");
+    }
+
 }
